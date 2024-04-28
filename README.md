@@ -1,2 +1,3 @@
-# undergrad-thesis
-All of the code I use for the hemlock decline synchroneity analysis in my undergraduate thesis. 
+# Synchroneity of the middle-Holocene Tsuga canadensis (Eastern hemlock) decline across northern New England, USA
+
+This study examines the synchronicity of the middle-Holocene decline of Tsuga canadensis (Eastern hemlock) across northern New England, using both newly obtained and previously published pollen records. I examine the timing of the onset of the hemlock decline at multiple sites, including a new sediment core from Smith Pond in Enfield, NH. To do this, I employ stratigraphic visualizations, loss-on-ignition, magnetic susceptibility, radiocarbon dating, and pollen analysis. By developing age-depth models and comparing probability density functions of onset ages, I evaluate the synchronicity of the decline across different geographic and climatic zones. The results address critical questions regarding the biogeographic patterns and potential causes of the hemlock decline, providing insights into the roles of pathogen outbreaks versus climate change in this ecological event.
